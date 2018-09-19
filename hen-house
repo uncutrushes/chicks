@@ -1,0 +1,61 @@
+<html lang="en">
+<head>
+    <title>GroovyChicks</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css"  href="https://fonts.googleapis.com/css?family=Poppins">
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+</head>
+<body>
+
+    <div class="topnav">
+<!--
+        id are case sensitive 
+-->
+      <a href="#Who">Who</a>
+      <a href="#About">About</a>
+      <a href="#Buy">Buy</a>
+      <a href="#Contact">Contact</a>
+    </div>
+
+    
+<!--
+    Who
+-->
+    <div id="Who" class="panel gray">
+        <h2>Give your party wings with Groovy Chicks</h2>
+        <img class="round-image" border="0" src="images/GroovyChicks.png" alt="Miner" width="160" height="160" class="img-circle">
+        <p>From sales teams to hen nights, every event takes off when you’ve got Groovy Chicks! They make great prizes for all ages and are guaranteed to raise a smile.</p>
+    </div>
+    
+<!--
+    About
+-->
+    <div id="About" class="panel white">
+        <h2>Don’t count your chickens …</h2>
+        <p>But do count your Groovy Chicks. We offer discounts for orders of over 20, and can quickly supply larger orders as required. </p>
+    </div>
+
+    
+<!--
+    Buy
+-->
+    <div id="Buy" class="panel gray">
+        <h2>Pricelist</h2>
+        <p>Groovy Chicks are going cheep! Contact us for great rates. With your company name or logo embroidered on one of these Chicks, your campaign will be a hit!</p>
+    </div>
+
+<!--
+    Programming experience
+-->
+    <div id="Contact" class="panel white">
+        <h2>Groovy Chicks are on Twitter, of course!</h2>
+        <p>Contact us via Twitter, Facebook, phone, address and webpage.</p>
+    </div>
+
+
+
+
+
+</body>
+</html>
